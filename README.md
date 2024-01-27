@@ -1,6 +1,7 @@
 # Attendance-System
 
 IT SIA FINAL TASK
+
 Attendance System is where you can login as admin or as teacher. As an admin you can manage the teachers and their students, also you can add classes, subjects, students, session and time of the given schedule. And for the teacher, you are capable of managing your given students and for their attendances.
 
 # Web Service Integration
